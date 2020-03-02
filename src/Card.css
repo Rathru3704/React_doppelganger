@@ -1,0 +1,8 @@
+h3::after {
+    display: block;
+    content: " ";
+    margin: 2% auto;
+    /* width: 95%; */
+    height: 2px;
+    background-color: #FF6300;
+}

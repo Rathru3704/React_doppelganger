@@ -1,10 +1,18 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
+import ReactDOM from 'react-dom'; // for DOM web site
 import './index.css';
-import App from './App';
+// import App from './App'; // Convention dictates that Component start with a capital
+import Card from './Card';
+import 'tachyons';
 import * as serviceWorker from './serviceWorker';
 
-ReactDOM.render(<App />, document.getElementById('root'));
+ReactDOM.render(
+    <div>
+        <Card />
+        <Card />
+        <Card />
+    </div>
+    ,document.getElementById('root'));
 
 // If you want your app to work offline and load faster, you can change
 // unregister() to register() below. Note this comes with some pitfalls.
