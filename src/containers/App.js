@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import './App.css';
 import SearchBox from '../components/SearchBox';
 import Scroll from '../components/Scroll';
+import ErrorBoundary from '../components/ErrorBoundary';
 import CardList from '../components/CardList'; 
 import 'tachyons';
 
@@ -42,11 +43,13 @@ class App extends Component{ // Create a class named "App" which will inherit th
       return(
         <div className='tc'>
           <h1 className='mt5 mb1 f1'>- DOPPELGANGER -</h1>
-          <h2 className='mb5'>A User Generator</h2>
+          <h2 className='mb4'>A User Generator</h2>
           <SearchBox searchChange={this.onSearchChange}/>
-          {/* <Scroll> */}
-            <CardList doppelgangers={filterDoppels} />
-          {/* </Scroll> */}
+          <ErrorBoundary>
+            {/* <Scroll> */}
+              <CardList doppelgangers={filterDoppels} />
+            {/* </Scroll> */}
+          </ErrorBoundary>
         </div>
       );
     }
