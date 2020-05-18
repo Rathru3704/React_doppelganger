@@ -6,6 +6,7 @@ Dumb(Presentational) Component:
     present something to the DOM
     often a function with a render() method
 */
+
 const CardList = ({doppelgangers}) => {
     return(
         <div className='mh5'>
