@@ -10,12 +10,13 @@
 
 ## Table of Contents
 
-- [Learning Objects](#learning-objects)
+- [Features](#learning-objects)
 - [Maintainers](#maintainers)
 - [Contributing](#contributing)
 - [License](#license)
 
-## Learning Objects
+## Features
+* [Doppelganger Link](https://rathru3704.github.io/React_doppelganger/)
 * Fetch JSON data from
     * https://randomuser.me
     * https://jsonplaceholder.typicode.com/
@@ -28,7 +29,7 @@
 
 ## Contributing
 
-Please contribute! [Look at the issues](https://github.com/Rathru3704/issues)<br />
+Please contribute! [Look at the issues](https://github.com/Rathru3704/React_doppelganger/issues)<br />
 PRs accepted.
 
 ## License
