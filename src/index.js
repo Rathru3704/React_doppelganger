@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom'; // for DOM web site
 import './index.css';
 import * as serviceWorker from './serviceWorker';
 import App from './containers/App'; // Convention dictates that Component start with a capital
+import 'tachyons';
 
 ReactDOM.render(<App /> ,document.getElementById('root'));
 
