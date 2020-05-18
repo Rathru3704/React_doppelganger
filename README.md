@@ -3,10 +3,9 @@
 
 ![](https://img.shields.io/badge/language-React-61DBFB.svg)
 
-![](./public/doppelganger_screenshot.png)
-
 > ## A user generator that producing fake male profiles including photos and basic information through APIs
-<br />
+
+![](./public/doppelganger_screenshot.png)
 
 ## Table of Contents
 
