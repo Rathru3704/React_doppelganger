@@ -27,10 +27,13 @@
 ## Setup
 * This project uses [node](http://nodejs.org) and [npm](https://npmjs.com). Please ensure you have them locally installed.
 * Open Git Bash, change the current working directory and type `git clone` syntax:
+
     ```sh
     $ git clone https://github.com/Rathru3704/React_doppelganger.git
     ```
+    
 * Use `npm install` to get all dependencies downloaded and start to run the app:
+
     ```sh
     $ npm install
     $ npm run start
