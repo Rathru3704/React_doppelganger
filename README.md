@@ -5,7 +5,7 @@
 
 ![](./public/doppelganger_screenshot.png)
 
-> A user generator that producing fake male profiles including photos and basic information through APIs
+> <h2>A user generator that producing fake male profiles including photos and basic information through APIs</h2>
 
 ## Table of Contents
 
