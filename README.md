@@ -24,7 +24,7 @@
     * https://randomuser.me
     * https://jsonplaceholder.typicode.com/
 
-* Provide a seach box to search key words.
+* Provide a seach box to search user names.
 
 * Style the interface by utilizing Tachyons.
 
