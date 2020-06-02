@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/React_doppelganger/static/css/main.14a0c249.chunk.css",
-    "main.js": "/React_doppelganger/static/js/main.d71929a9.chunk.js",
-    "main.js.map": "/React_doppelganger/static/js/main.d71929a9.chunk.js.map",
+    "main.js": "/React_doppelganger/static/js/main.f4348e7f.chunk.js",
+    "main.js.map": "/React_doppelganger/static/js/main.f4348e7f.chunk.js.map",
     "runtime-main.js": "/React_doppelganger/static/js/runtime-main.05e89802.js",
     "runtime-main.js.map": "/React_doppelganger/static/js/runtime-main.05e89802.js.map",
     "static/css/2.eb45ad44.chunk.css": "/React_doppelganger/static/css/2.eb45ad44.chunk.css",
     "static/js/2.39f4c6b7.chunk.js": "/React_doppelganger/static/js/2.39f4c6b7.chunk.js",
     "static/js/2.39f4c6b7.chunk.js.map": "/React_doppelganger/static/js/2.39f4c6b7.chunk.js.map",
     "index.html": "/React_doppelganger/index.html",
-    "precache-manifest.81dbb242a05b539605ecca2838ace15d.js": "/React_doppelganger/precache-manifest.81dbb242a05b539605ecca2838ace15d.js",
+    "precache-manifest.0e001f5b385dfe270484f018f67e440b.js": "/React_doppelganger/precache-manifest.0e001f5b385dfe270484f018f67e440b.js",
     "service-worker.js": "/React_doppelganger/service-worker.js",
     "static/css/2.eb45ad44.chunk.css.map": "/React_doppelganger/static/css/2.eb45ad44.chunk.css.map",
     "static/css/main.14a0c249.chunk.css.map": "/React_doppelganger/static/css/main.14a0c249.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.eb45ad44.chunk.css",
     "static/js/2.39f4c6b7.chunk.js",
     "static/css/main.14a0c249.chunk.css",
-    "static/js/main.d71929a9.chunk.js"
+    "static/js/main.f4348e7f.chunk.js"
   ]
 }
